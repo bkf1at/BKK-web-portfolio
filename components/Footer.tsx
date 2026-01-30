@@ -18,9 +18,9 @@ const Footer: React.FC = () => {
               onClick={handleScrollToTop}
               className="text-2xl font-black text-gradient tracking-tighter hover:opacity-80 transition-opacity uppercase"
             >
-              BARBARA.KUFFUOR
+              BARBARA.KUFFOUR
             </a>
-            <p className="text-slate-500 text-sm mt-2">© {new Date().getFullYear()} {CAREER_DATA.name}. Built with Passion & AI.</p>
+            <p className="text-slate-500 text-sm mt-2">© {new Date().getFullYear()} {CAREER_DATA.name}. Built with Passion.</p>
           </div>
 
           <div className="flex gap-6">

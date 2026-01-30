@@ -11,7 +11,7 @@ const About: React.FC = () => {
             <div className="absolute -inset-4 bg-gradient-to-r from-blue-500 to-purple-600 rounded-[2rem] blur opacity-25 group-hover:opacity-40 transition duration-1000 group-hover:duration-200"></div>
             <div className="relative glass p-4 rounded-[2rem] border border-slate-800">
               <img 
-                src="https://picsum.photos/seed/dev-portrait/600/800" 
+                src="https://i.postimg.cc/FsKvVCQQ/Barbara-Kuffour.jpg" 
                 alt="Profile" 
                 className="rounded-3xl w-full h-[500px] object-cover"
               />
