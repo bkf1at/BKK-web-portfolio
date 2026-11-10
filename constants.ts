@@ -13,7 +13,7 @@ export const CAREER_DATA: CareerContext = {
       title: "Zabby Core",
       description: "Agency website for high-end web development, SEO, and digital marketing services.",
       tech: ["WordPress", "JavaScript", "Domain & Hosting", "UI/UX Design", "Animations", "Content Creation"],
-      image: "https://postimg.cc/1gGCGcyb",
+      image: "https://i.postimg.cc/YSV5wbZ2/zabbycore.png",
       live: "https://www.zabbycore.com/",
       category: "Web"
     },
