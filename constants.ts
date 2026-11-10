@@ -10,11 +10,11 @@ export const CAREER_DATA: CareerContext = {
     
     {
       id: "1",
-      title: "Zabby Web Solutions",
+      title: "Zabby Core",
       description: "Agency website for high-end web development, SEO, and digital marketing services.",
-      tech: ["WebFlow", "JavaScript", "Domain & Hosting", "UI/UX Design", "Animations", "Content Creation"],
-      image: "https://i.postimg.cc/QN1mnjhK/zws.jpg",
-      live: "https://www.zabbywebsolutions.com/",
+      tech: ["WordPress", "JavaScript", "Domain & Hosting", "UI/UX Design", "Animations", "Content Creation"],
+      image: "https://postimg.cc/1gGCGcyb",
+      live: "https://www.zabbycore.com/",
       category: "Web"
     },
     {
@@ -28,15 +28,6 @@ export const CAREER_DATA: CareerContext = {
     },
     {
       id: "3",
-      title: "B and E Towing",
-      description: "Service-oriented website for a towing company featuring local SEO and click-to-dispatch functionality.",
-      tech: ["WordPress", "Responsiveness", "Domain & Hosting", "Plugins", "Google Ads", "Google Business"],
-      image: "https://i.postimg.cc/3N5BJcCn/towings.jpg",
-      live: "https://b-and-etowingllc.com/",
-      category: "Web"
-    },
-    {
-      id: "4",
       title: "ZabbyWeekly",
       description: "A personal brand and lifestyle blog focusing on career growth, technology, and productivity.",
       tech: ["WordPress", "SEO", "Blog", "Migration","Custom Theme", "SSL Updates", "Google Analytics"],
@@ -45,7 +36,7 @@ export const CAREER_DATA: CareerContext = {
       category: "Web"
     },
     {
-      id: "5",
+      id: "4",
       title: "AUC Woodruff Library",
       description: "The digital gateway for the Atlanta University Center's library and research services.",
       tech: ["WordPress", "HTML/CSS", "Advance Custom Fields", "Content Migration", "Google Analytics"],
@@ -54,7 +45,7 @@ export const CAREER_DATA: CareerContext = {
       category: "Web"
     },
     {
-      id: "6",
+      id: "5",
       title: "AlumniDirect",
       description: "A networking ecosystem for university alumni to connect, share resources, and discover opportunities.",
       tech: ["WordPress", "HTML/CSS", "Elementor Pro", "Responsiveness", "Membership Plugins"],
@@ -63,7 +54,7 @@ export const CAREER_DATA: CareerContext = {
       category: "Web"
     },
     {
-      id: "7",
+      id: "6",
       title: "WorldStrides",
       description: "Educational travel portal for students and educators, facilitating global learning experiences.",
       tech: ["WordPress", "HTML/CSS", "Bootstrap", "SalesForce CMS", "Page Builders", "Web Migration"],
@@ -72,7 +63,7 @@ export const CAREER_DATA: CareerContext = {
       category: "Web"
     },
     {
-      id: "8",
+      id: "7",
       title: "Merchant Advisory Services",
       description: "A robust financial platform delivering streamlined payment processing solutions and merchant services.",
       tech: ["WordPress", "Elementor Pro", "PHP", "SEO", "HTML/CSS3", "JavaScript", "Content Layout"],
@@ -81,7 +72,7 @@ export const CAREER_DATA: CareerContext = {
       category: "Web"
     },
     {
-      id: "9",
+      id: "8",
       title: "StepKnock",
       description: "Real estate and sales optimization platform designed to empower door-to-door sales teams.",
       tech: ["WordPress", "MailChimp", "HTML/CSS", "Divi Theme", "Yoast SEO", "Content Creation"],
@@ -90,7 +81,7 @@ export const CAREER_DATA: CareerContext = {
       category: "Web"
     },
     {
-      id: "10",
+      id: "9",
       title: "Angel Hair Braiding",
       description: "Booking and portfolio platform for a professional hair styling salon specializing in braiding.",
       tech: ["WordPress", "Domain & Hosting", "Booking", "Responsiveness", "Image Optimization"],
