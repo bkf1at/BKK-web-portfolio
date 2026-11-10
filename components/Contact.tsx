@@ -64,7 +64,7 @@ const Contact: React.FC = () => {
               <div className="w-12 h-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-500/20 group-hover:bg-blue-500/20 transition-all">
                 <svg className="w-6 h-6 text-blue-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg>
               </div>
-              <span className="text-slate-200">zabbywebsolutions@gmail.com</span>
+              <span className="text-slate-200">zabbycore@gmail.com</span>
             </div>
             <div className="flex items-center gap-4 group">
               <div className="w-12 h-12 rounded-xl bg-purple-500/10 flex items-center justify-center border border-purple-500/20 group-hover:bg-purple-500/20 transition-all">
@@ -102,7 +102,7 @@ const Contact: React.FC = () => {
                     value={formData.name}
                     onChange={handleChange}
                     className="w-full bg-slate-900/50 border border-slate-700 rounded-xl px-4 py-3 focus:outline-none focus:border-blue-500 transition-all text-slate-100" 
-                    placeholder="John Doe" 
+                    placeholder="Jane Doe" 
                   />
                 </div>
                 <div>
@@ -114,7 +114,7 @@ const Contact: React.FC = () => {
                     value={formData.email}
                     onChange={handleChange}
                     className="w-full bg-slate-900/50 border border-slate-700 rounded-xl px-4 py-3 focus:outline-none focus:border-blue-500 transition-all text-slate-100" 
-                    placeholder="john@example.com" 
+                    placeholder="jane@example.com" 
                   />
                 </div>
               </div>
