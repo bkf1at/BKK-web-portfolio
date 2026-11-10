@@ -19,9 +19,9 @@ export const CAREER_DATA: CareerContext = {
     },
     {
       id: "2",
-      title: "AI Literacy Credential Program",
-      description: "It introduces learners to key concepts – AI Fundamentals, Tools & Practical Use, and Critical Thinking & Ethics.",
-      tech: ["React", "Typescript", "JavaScript", "Google Cloud", "UI/UX Design", "Illustrations", "Web Migration"],
+      title: "AI Literacy Program",
+      description: "It introduces learners to AI Fundamentals, Tools & Practical Use, and Critical Thinking & Ethics.",
+      tech: ["React", "Typescript", "Google Cloud", "UI/UX Design", "Illustrations", "Web Migration"],
       image: "https://i.postimg.cc/vHssPYJF/AI-Literacy-Course.png",
       live: "https://genai-literacy-101-for-students-683644106103.us-west1.run.app/",
       category: "Web"
@@ -30,7 +30,7 @@ export const CAREER_DATA: CareerContext = {
       id: "3",
       title: "Digital Exhibits",
       description: "A touch enabled interaction of HBCU and AUC Digital Collections.",
-      tech: ["React", "Typescript", "Google Cloud", "Chrome DEV Tools", "UI/UX Design", "GitHub", "Adobe Photoshop"],
+      tech: ["React", "Typescript", "Google Cloud", "Chrome DEV Tools", "GitHub", "Adobe Photoshop"],
       image: "https://i.postimg.cc/BvMb3LGC/Digital-collections.png",
       live: "https://digital-collections-683644106103.us-west1.run.app/",
       category: "Web"
