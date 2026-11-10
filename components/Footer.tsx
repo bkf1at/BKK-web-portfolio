@@ -24,7 +24,7 @@ const Footer: React.FC = () => {
           </div>
 
           <div className="flex gap-6">
-            <a href="https://www.zabbywebsolutions.com/" className="text-slate-500 hover:text-blue-400 transition-colors">Zabby Web Solutions</a>
+            <a href="https://www.zabbycore.com/" className="text-slate-500 hover:text-blue-400 transition-colors">Zabby Core</a>
             <a href="https://github.com/bkf1at" className="text-slate-500 hover:text-blue-400 transition-colors">GitHub</a>
             <a href="https://www.linkedin.com/in/barbara-kuffuor/" className="text-slate-500 hover:text-blue-400 transition-colors">LinkedIn</a>
           </div>
