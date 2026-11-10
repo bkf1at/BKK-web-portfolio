@@ -132,12 +132,15 @@ export const CAREER_DATA: CareerContext = {
   ],
   skills: [
     { name: "React", level: 90, category: "Frontend" },
-    { name: "CMS Platforms", level: 90, category: "Tools" },
+    { name: "WordPress", level: 90, category: "CMS Platforms" },
+    { name: "Web Accessibility", level: 70, category: "Tools" },
+    { name: "GitHub", level: 80, category: "Tools" },
+    { name: "WebFlow", level: 90, category: "CMS Platforms" },
     { name: "HTML/CSS/Js", level: 90, category: "Frontend" },
     { name: "UI/UX Design", level: 80, category: "Tools" },
     { name: "SEO", level: 75, category: "Backend" },
+    { name: "Testing", level: 75, category: "Frontend" },
     { name: "Bootstrap", level: 85, category: "Frontend" },
-    { name: "Digital Strategy", level: 75, category: "Frontend" },
-    { name: "Cloud Deployment", level: 80, category: "DevOps" }
+    { name: "AWS (S3, CloudFront, Lambda)", level: 80, category: "DevOps" }
   ],
 };
